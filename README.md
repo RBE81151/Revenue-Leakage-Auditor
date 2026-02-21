@@ -16,3 +16,7 @@ This project provides a data-driven audit of commercial discounting practices wi
 ## Links
 Interactive Tableau Dashboard: 
 (https://public.tableau.com/app/profile/rotem.ben.moyal/viz/CommercialRevenueLeakageAuditor/Dashboard1)
+
+<p align="center">
+  <img src="Dashboard%201.png" width="850" title="Revenue Leakage Auditor Dashboard">
+</p>
